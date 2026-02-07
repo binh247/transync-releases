@@ -1,8 +1,8 @@
-version: 1.1.4
+version: 1.1.5
 files:
-  - url: TransyncLiveCaptionsSetup1.1.4.exe
-    sha512: SJzvOJDTADy1wT6CzkyJhFexShIlaFe/TRmTNFpfsdpg/+zdeeopqeVcz8+aYtcZ/CcUhc0AAGTM0WIDYxOtfQ==
-    size: 100720430
-path: TransyncLiveCaptionsSetup1.1.4.exe
-sha512: SJzvOJDTADy1wT6CzkyJhFexShIlaFe/TRmTNFpfsdpg/+zdeeopqeVcz8+aYtcZ/CcUhc0AAGTM0WIDYxOtfQ==
-releaseDate: '2026-02-03T01:58:28.424Z'
+  - url: TransyncLiveCaptionsSetup1.1.5.exe
+    sha512: sB6biIz9SFkkTEqxkTcKFgRDMM4As3hlvXZC//CoB594PmF2JvrS2nlIJGTfkce/FZ3GYlbStgFnGvXISMsV3w==
+    size: 100986314
+path: TransyncLiveCaptionsSetup1.1.5.exe
+sha512: sB6biIz9SFkkTEqxkTcKFgRDMM4As3hlvXZC//CoB594PmF2JvrS2nlIJGTfkce/FZ3GYlbStgFnGvXISMsV3w==
+releaseDate: '2026-02-07T18:01:09.863Z'
